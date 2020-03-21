@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\colin\source\repos\Quest2\Quest2\main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\colin\source\repos\Quest2\Quest2\main.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\colin\source\repos\Quest2\Quest2\main.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\colin\source\repos\Quest2\Quest2\main.cpp(12,10): warning C4930: 'account ec(void)': prototyped function not called (was a variable definition intended?)
+  Quest2.vcxproj -> C:\Users\colin\source\repos\Quest2\Debug\Quest2.exe
